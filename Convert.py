@@ -21,10 +21,10 @@ def convert_to_jsonl(file_path):
     return jsonl_data
 
 # Directory containing JSON files
-input_directory = "/home/kquant/Documents/humanity/JSONS"
+input_directory = "/home/REDACTED/Documents/humanity/JSONS"
 
 # Output file for JSONL
-output_file = "/home/kquant/Documents/humanity/Converted.json"
+output_file = "/home/REDACTED/Documents/humanity/Converted.json"
 
 # List to store JSONL data
 jsonl_data_list = []
