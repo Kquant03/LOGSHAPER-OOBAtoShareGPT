@@ -1,5 +1,7 @@
 # A Way To Convert Oobabooga Chat Logs Into Multiturn Data.
 
+*NOTE: this will not work right if you use a greeting...this script assumes that the User is the one initiating conversation*
+
 LOGSHAPER is an initiative to take all of the work I've done in [OOBA](https://github.com/oobabooga/text-generation-webui) and convert those interactions to trainable formats.
 
 Basically, just download the script and then replace line 24's string with your Oobabooga chatlog folder.
